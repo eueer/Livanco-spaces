@@ -22,11 +22,9 @@ export interface Page {
   verbatim: string[];
 }
 
-const root = process.cwd();
+import manifestData from "./manifest.json";
 
-export const manifest: { pages: Page[] } = JSON.parse(
-  readFileSync(join(root, "src/manifest.json"), "utf8")
-);
+export const manifest: { pages: Page[] } = manifestData as unknown as { pages: Page[] };
 
 export function pageFor(file: string): Page {
   const page = manifest.pages.find((p) => p.file === file);
@@ -106,4 +104,23 @@ export async function renderPage(page: Page, Component: ComponentType): Promise<
     : page.head;
 
   return `${page.prologue}<html${page.htmlAttrs}><head>${head}</head>${page.afterHead}${body}</html>`;
+}
+
+const pageCache = new Map<string, string>();
+
+export async function getRenderedPage(file: string, Component: ComponentType): Promise<string> {
+  if (process.env.NODE_ENV === "development") {
+    return await renderPage(pageFor(file), Component);
+  }
+  if (pageCache.has(file)) {
+    return pageCache.get(file)!;
+  }
+  let html: string;
+  try {
+    html = readFileSync(join(process.cwd(), ".rendered", file), "utf8");
+  } catch {
+    html = await renderPage(pageFor(file), Component);
+  }
+  pageCache.set(file, html);
+  return html;
 }
