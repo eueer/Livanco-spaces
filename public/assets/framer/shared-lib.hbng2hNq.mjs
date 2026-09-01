@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`An integrated construction, design & build, interiors, engineering and technology infrastructure partner. We build spaces that work.`,favicon:`https://framerusercontent.com/assets/Z2oedfImpKxmjzCCjsgEkQlZXU.png`,robots:`max-image-preview:large`,title:`Livanco spaces - Interior design agency`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.hbng2hNq.mjs.map
