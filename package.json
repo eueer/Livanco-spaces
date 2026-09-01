@@ -7,8 +7,9 @@
     "prerender": "tsx scripts/prerender.mts",
     "predev": "npm run prerender",
     "dev": "next dev",
-    "prebuild": "npm run prerender",
-    "build": "next build",
+    "prebuild:next": "npm run prerender",
+    "build:next": "next build",
+    "build": "opennextjs-cloudflare build",
     "start": "next start",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview"
