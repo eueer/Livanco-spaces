@@ -9,17 +9,18 @@
 // appears once JavaScript has run, which means a flash of the old text and
 // search engines still reading the old text.
 //
-// 37 editable string(s).
+// 38 editable string(s).
 export const c = {
   oops: "Oops!",
   it_looks_like_that_page_doesn_t_exist_pl: "It looks like that page doesn't exist. Please check the URL and try again.",
+  the_azure_heights: "The Azure Heights",
+  carpentry_electrical_lighting_painting_f: "Carpentry, Electrical, Lighting, Painting, Flooring",
   submit: "Submit",
   something_went_wrong: "Something went wrong",
   thank_you: "Thank you",
   featured_environments: "Featured Environments",
   from_historic_renovations_to_modern_fami: "From historic renovations to modern family homes, explore the spaces we’ve had the privilege of bringing to life over the years.",
   no_items: "No items",
-  avantalane: "Avantalane",
   some_name: "Some name",
   menu: "MENU",
   legal: "LEGAL",

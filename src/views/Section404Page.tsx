@@ -22,14 +22,14 @@ export default function Section404Page() {
       {"\n    \n    "}
       <span data-fnj-slot={"1"} />
       {"\n\t\n\t"}
-      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"WZdEsQDAA\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"1k2y4ml\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"5d6ijo\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"dlzlhr\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}]}"} data-framer-ssr-released-at="2026-08-28T13:39:01.898Z" data-framer-page-optimized-at="2026-08-31T14:43:09.047Z" data-framer-generated-page="">
+      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"WZdEsQDAA\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"1k2y4ml\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"5d6ijo\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"dlzlhr\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}]}"} data-framer-ssr-released-at="2026-08-29T17:40:31.976Z" data-framer-page-optimized-at="2026-09-02T02:56:24.105Z" data-framer-generated-page="">
         <Suspense fallback={null}>
           <Suspense fallback={null}>
             <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: ":root body { background: var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)); }" }} />
             <div className="framer-ubgzX framer-13p58tu" data-layout-template="true" style={{ minHeight: "100vh", width: "auto" }}>
               <div className="framer-1qndcsm-container" data-framer-appear-id="1qndcsm" style={{ opacity: "0.001", transform: "translateY(-70px)" }}>
                 <div className="ssr-variant hidden-1ybq0yx">
-                  <nav className="framer-v4W5t framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
+                  <nav className="framer-1b7mw framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
                     <div className="framer-jpn1z8" data-framer-name="Left elements">
                       <div data-framer-component-type="SVG" data-framer-name="Border" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="framer-iiguf3" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0" }}>
                         <div className="svgContainer" style={{ width: "100%", height: "100%", aspectRatio: "inherit" }}>
@@ -59,7 +59,7 @@ export default function Section404Page() {
                                 </a>
                               </Suspense>
                               <div className="framer-1ld6bp2" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" }}>
-                                <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7UGxheWZhaXIgRGlzcGxheS1yZWd1bGFy", "--framer-font-family": "\"Playfair Display\", \"Playfair Display Placeholder\", serif", "--framer-font-size": "18px", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
+                                <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7SW5zdHJ1bWVudCBTZXJpZi1yZWd1bGFy", "--framer-font-family": "\"Instrument Serif\", \"Instrument Serif Placeholder\", serif", "--framer-font-size": "18px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
                                   <strong className="framer-text">
                                     {"Livanco Spaces"}
                                   </strong>
@@ -90,7 +90,7 @@ export default function Section404Page() {
                   </nav>
                 </div>
                 <div className="ssr-variant hidden-1ke6cvj hidden-13p58tu">
-                  <nav className="framer-v4W5t framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
+                  <nav className="framer-1b7mw framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
                     <div className="framer-16qi1e4" data-border="true" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-8c5ac018-8806-4487-a55b-975a2f765f5c, rgb(231, 229, 228))", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", backgroundColor: "var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249))" }}>
                       <Top />
                     </div>

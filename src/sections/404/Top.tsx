@@ -18,7 +18,7 @@ export default function Top() {
               </a>
             </Suspense>
             <div className="framer-1ld6bp2" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" }}>
-              <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7UGxheWZhaXIgRGlzcGxheS1yZWd1bGFy", "--framer-font-family": "\"Playfair Display\", \"Playfair Display Placeholder\", serif", "--framer-font-size": "18px", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
+              <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7SW5zdHJ1bWVudCBTZXJpZi1yZWd1bGFy", "--framer-font-family": "\"Instrument Serif\", \"Instrument Serif Placeholder\", serif", "--framer-font-size": "18px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
                 <strong className="framer-text">
                   {"Livanco Spaces"}
                 </strong>

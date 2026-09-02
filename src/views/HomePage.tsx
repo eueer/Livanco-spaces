@@ -24,14 +24,14 @@ export default function HomePage() {
       {"\n    \n    "}
       <span data-fnj-slot={"1"} />
       {"\n\t\n\t"}
-      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"augiA20Il\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"72rtr7\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1r0vlum\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"p07fik\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}]}"} data-framer-ssr-released-at="2026-08-29T17:40:31.976Z" data-framer-page-optimized-at="2026-08-31T14:43:18.813Z" data-framer-generated-page="">
+      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"augiA20Il\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"72rtr7\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1r0vlum\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"p07fik\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}]}"} data-framer-ssr-released-at="2026-08-29T17:40:31.976Z" data-framer-page-optimized-at="2026-09-02T02:56:24.464Z" data-framer-generated-page="">
         <Suspense fallback={null}>
           <Suspense fallback={null}>
             <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: ":root body { background: var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)); }" }} />
             <div className="framer-ubgzX framer-13p58tu" data-layout-template="true" style={{ minHeight: "100vh", width: "auto" }}>
               <div className="framer-1qndcsm-container" data-framer-appear-id="1qndcsm" style={{ opacity: "0.001", transform: "translateY(-70px)" }}>
                 <div className="ssr-variant hidden-1ybq0yx">
-                  <nav className="framer-v4W5t framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
+                  <nav className="framer-1b7mw framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
                     <div className="framer-jpn1z8" data-framer-name="Left elements">
                       <div data-framer-component-type="SVG" data-framer-name="Border" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="framer-iiguf3" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0" }}>
                         <div className="svgContainer" style={{ width: "100%", height: "100%", aspectRatio: "inherit" }}>
@@ -61,7 +61,7 @@ export default function HomePage() {
                                 </a>
                               </Suspense>
                               <div className="framer-1ld6bp2" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" }}>
-                                <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7UGxheWZhaXIgRGlzcGxheS1yZWd1bGFy", "--framer-font-family": "\"Playfair Display\", \"Playfair Display Placeholder\", serif", "--framer-font-size": "18px", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
+                                <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7SW5zdHJ1bWVudCBTZXJpZi1yZWd1bGFy", "--framer-font-family": "\"Instrument Serif\", \"Instrument Serif Placeholder\", serif", "--framer-font-size": "18px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
                                   <strong className="framer-text">
                                     {"Livanco Spaces"}
                                   </strong>
@@ -92,7 +92,7 @@ export default function HomePage() {
                   </nav>
                 </div>
                 <div className="ssr-variant hidden-1ke6cvj hidden-13p58tu">
-                  <nav className="framer-v4W5t framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
+                  <nav className="framer-1b7mw framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
                     <div className="framer-16qi1e4" data-border="true" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-8c5ac018-8806-4487-a55b-975a2f765f5c, rgb(231, 229, 228))", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", backgroundColor: "var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249))" }}>
                       <Top />
                     </div>
@@ -100,7 +100,7 @@ export default function HomePage() {
                 </div>
               </div>
               <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: var(--token-e4ad1173-13a8-4797-8416-6e773e2b9e82, rgb(245, 245, 244)); }" }} />
-              <div data-framer-root="" className="framer-ArZfx framer-liAmC framer-3EOm7 framer-RgymR framer-dokJh framer-NkwbT framer-72rtr7" style={{ minHeight: "100vh", width: "auto", display: "contents" }}>
+              <div data-framer-root="" className="framer-OEK77 framer-liAmC framer-3EOm7 framer-RgymR framer-dokJh framer-NkwbT framer-72rtr7" style={{ minHeight: "100vh", width: "auto", display: "contents" }}>
                 <div className="ssr-variant hidden-p07fik hidden-1r0vlum">
                   <Hero />
                 </div>
@@ -504,15 +504,6 @@ export default function HomePage() {
           <path d="M 45.075 18.132 C 38.744 24.098 35.58 27.08 32.008 29.326 C 27.484 32.172 22.471 34.159 17.221 35.188 C 15.067 35.61 12.858 35.813 10.009 35.91 L 0 36 C 4.19 36 6.364 36.09 9 36 L 90 36 L 90 0 C 81.283 0 77.075 0.264 72.93 1.076 C 67.68 2.105 62.667 4.093 58.144 6.939 C 54.572 9.186 51.407 12.168 45.075 18.133 Z" fill="var(--token-e4ad1173-13a8-4797-8416-6e773e2b9e82, rgb(245, 245, 244))" />
         </svg>
         {"\n"}
-        <svg id="2503973916" display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <path d="M 13.5 6 L 0 6 M 8 12 C 8 12 14 7.581 14 6 C 14 4.419 8 0 8 0" fill="transparent" height="12px" id="jkQ9MKpal" strokeDasharray="" strokeLinecap="round" strokeLinejoin="round" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" transform="translate(5 6)" width="14px" />
-        </svg>
-        {"\n"}
-        <svg id="2398899594" display="block" role="presentation" viewBox="0 0 23 24" xmlns="http://www.w3.org/2000/svg">
-          <path d="M 0 23 C 0 10.299 10.298 0 23 0 L 0 0 Z" fill="var(--aj6ieq, var(--token-49d1dd69-2d1a-44ab-8209-1e894ed77471, rgb(228, 228, 231)))" height="23px" id="Wv0YpnP5M" transform="translate(1 1)" width="23px" />
-          <path d="M 0 24 C 0 10.746 10.745 0 24 0 L 0 0 Z" fill="var(--jt1pep, var(--token-2c617c6c-bc75-483c-a1b2-b392deca402c, rgb(255, 255, 255)))" height="24px" id="rdYPQ9U2c" width="24px" />
-        </svg>
-        {"\n"}
         <svg id="3986561268" display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <g d="M 10.619 19.367 C 10.18 19.776 9.601 20.002 9.001 20 C 8.401 20.002 7.823 19.775 7.384 19.367 C 3.413 15.626 -1.909 11.447 0.686 5.38 C 2.091 2.1 5.459 0 9.002 0 C 12.545 0 15.914 2.1 17.317 5.38 C 19.909 11.44 14.6 15.639 10.619 19.367 Z M 12.5 9 C 12.5 10.933 10.933 12.5 9 12.5 C 7.067 12.5 5.5 10.933 5.5 9 C 5.5 7.067 7.067 5.5 9 5.5 C 10.933 5.5 12.5 7.067 12.5 9 Z" fill="transparent" height="20.000010941596393px" id="oG5TlBAmD" transform="translate(3 2)" width="18.002852323961328px">
             <path d="M 10.619 19.367 C 10.18 19.776 9.601 20.002 9.001 20 C 8.401 20.002 7.823 19.775 7.384 19.367 C 3.413 15.626 -1.909 11.447 0.686 5.38 C 2.091 2.1 5.459 0 9.002 0 C 12.545 0 15.914 2.1 17.317 5.38 C 19.909 11.44 14.6 15.639 10.619 19.367 Z" fill="transparent" height="20.000010941596397px" id="ZrMnUTvB4" strokeDasharray="" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="10" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" width="18.002852323961406px" />
@@ -541,6 +532,15 @@ export default function HomePage() {
             <path d="M 10 17 C 11.81 17 13.545 16.821 15.153 16.493 C 17.163 16.083 18.167 15.879 19.083 14.701 C 20 13.522 20 12.169 20 9.463 L 20 7.537 C 20 4.831 20 3.477 19.083 2.299 C 18.167 1.121 17.163 0.916 15.153 0.507 C 13.457 0.166 11.73 -0.004 10 0 C 8.19 0 6.455 0.179 4.847 0.507 C 2.837 0.917 1.833 1.121 0.917 2.299 C 0 3.478 0 4.831 0 7.536 L 0 9.464 C 0 12.169 0 13.522 0.917 14.701 C 1.833 15.879 2.837 16.084 4.847 16.493 C 6.455 16.821 8.19 17 10 17 Z" fill="transparent" height="17.00005788102808px" id="XnHIKYpVb" strokeDasharray="" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="10" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" width="20px" />
             <path d="M 6.962 3.813 C 6.814 4.419 6.024 4.853 4.445 5.724 C 2.727 6.671 1.868 7.144 1.173 6.961 C 0.941 6.901 0.725 6.793 0.538 6.644 C 0 6.209 0 5.306 0 3.5 C 0 1.694 0 0.791 0.538 0.356 C 0.72 0.209 0.938 0.1 1.173 0.039 C 1.868 -0.144 2.727 0.329 4.445 1.276 C 6.025 2.146 6.814 2.581 6.962 3.187 C 7.012 3.393 7.012 3.607 6.962 3.813 Z" fill="transparent" height="6.999593051440014px" id="BYaLLVm4x" strokeDasharray="" strokeLinecap="butt" strokeLinejoin="round" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" transform="translate(7 5)" width="6.999499999999898px" />
           </g>
+        </svg>
+        {"\n"}
+        <svg id="2503973916" display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M 13.5 6 L 0 6 M 8 12 C 8 12 14 7.581 14 6 C 14 4.419 8 0 8 0" fill="transparent" height="12px" id="jkQ9MKpal" strokeDasharray="" strokeLinecap="round" strokeLinejoin="round" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" transform="translate(5 6)" width="14px" />
+        </svg>
+        {"\n"}
+        <svg id="2398899594" display="block" role="presentation" viewBox="0 0 23 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M 0 23 C 0 10.299 10.298 0 23 0 L 0 0 Z" fill="var(--aj6ieq, var(--token-49d1dd69-2d1a-44ab-8209-1e894ed77471, rgb(228, 228, 231)))" height="23px" id="Wv0YpnP5M" transform="translate(1 1)" width="23px" />
+          <path d="M 0 24 C 0 10.746 10.745 0 24 0 L 0 0 Z" fill="var(--jt1pep, var(--token-2c617c6c-bc75-483c-a1b2-b392deca402c, rgb(255, 255, 255)))" height="24px" id="rdYPQ9U2c" width="24px" />
         </svg>
         {"\n"}
         <svg id="544624239" display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

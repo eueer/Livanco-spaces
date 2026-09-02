@@ -22,14 +22,14 @@ export default function ProjectsPage() {
       {"\n    \n    "}
       <span data-fnj-slot={"1"} />
       {"\n\t\n\t"}
-      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"f46HOnJhP\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"kbya2s\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"407xdg\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"hre5e4\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}]}"} data-framer-ssr-released-at="2026-08-28T13:39:01.898Z" data-framer-page-optimized-at="2026-08-31T14:43:09.225Z" data-framer-generated-page="">
+      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"f46HOnJhP\",\"localeId\":\"default\",\"breakpoints\":[{\"hash\":\"kbya2s\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"407xdg\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"hre5e4\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}]}"} data-framer-ssr-released-at="2026-08-29T17:40:31.976Z" data-framer-page-optimized-at="2026-09-02T02:56:24.282Z" data-framer-generated-page="">
         <Suspense fallback={null}>
           <Suspense fallback={null}>
             <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: ":root body { background: var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)); }" }} />
             <div className="framer-ubgzX framer-13p58tu" data-layout-template="true" style={{ minHeight: "100vh", width: "auto" }}>
               <div className="framer-1qndcsm-container" data-framer-appear-id="1qndcsm" style={{ opacity: "0.001", transform: "translateY(-70px)" }}>
                 <div className="ssr-variant hidden-1ybq0yx">
-                  <nav className="framer-v4W5t framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
+                  <nav className="framer-1b7mw framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
                     <div className="framer-jpn1z8" data-framer-name="Left elements">
                       <div data-framer-component-type="SVG" data-framer-name="Border" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="framer-iiguf3" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0" }}>
                         <div className="svgContainer" style={{ width: "100%", height: "100%", aspectRatio: "inherit" }}>
@@ -59,7 +59,7 @@ export default function ProjectsPage() {
                                 </a>
                               </Suspense>
                               <div className="framer-1ld6bp2" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36))", "--framer-link-text-color": "rgb(0, 153, 255)", "--framer-link-text-decoration": "underline", transform: "none" }}>
-                                <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7UGxheWZhaXIgRGlzcGxheS1yZWd1bGFy", "--framer-font-family": "\"Playfair Display\", \"Playfair Display Placeholder\", serif", "--framer-font-size": "18px", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
+                                <p dir="auto" className="framer-text" style={{ "--font-selector": "R0Y7SW5zdHJ1bWVudCBTZXJpZi1yZWd1bGFy", "--framer-font-family": "\"Instrument Serif\", \"Instrument Serif Placeholder\", serif", "--framer-font-size": "18px", "--framer-letter-spacing": "0.02em", "--framer-text-color": "var(--extracted-r6o4lv, var(--token-e24b3554-434b-4aec-9504-2f68f4c2a1fa, rgb(41, 37, 36)))" }}>
                                   <strong className="framer-text">
                                     {"Livanco Spaces"}
                                   </strong>
@@ -90,7 +90,7 @@ export default function ProjectsPage() {
                   </nav>
                 </div>
                 <div className="ssr-variant hidden-1ke6cvj hidden-13p58tu">
-                  <nav className="framer-v4W5t framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
+                  <nav className="framer-1b7mw framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
                     <div className="framer-16qi1e4" data-border="true" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-8c5ac018-8806-4487-a55b-975a2f765f5c, rgb(231, 229, 228))", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", backgroundColor: "var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249))" }}>
                       <Top />
                     </div>
@@ -98,10 +98,10 @@ export default function ProjectsPage() {
                 </div>
               </div>
               <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: var(--token-e4ad1173-13a8-4797-8416-6e773e2b9e82, rgb(245, 245, 244)); }" }} />
-              <div data-framer-root="" className="framer-Riw2c framer-7FAwD framer-dokJh framer-kbya2s" style={{ minHeight: "100vh", width: "auto", display: "contents" }}>
+              <div data-framer-root="" className="framer-1xGOy framer-7FAwD framer-dokJh framer-kbya2s" style={{ minHeight: "100vh", width: "auto", display: "contents" }}>
                 <div className="framer-311u0b">
                   <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                    <img width="1920" height="1200" sizes="(min-width: 1200px) calc(100vw - 40px), (min-width: 810px) and (max-width: 1199.98px) calc(100vw - 40px), (max-width: 809.98px) calc(100vw - 40px)" srcSet="/assets/img/37ea9d8018d9b851.webp 512w, /assets/img/3fbe122260b14fa0.webp 1024w, /assets/img/610efc1f616828e4.webp 1920w" src="/assets/img/610efc1f616828e4.webp" alt="beautiful bedroom" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" fetchPriority="high" />
+                    <img width="1920" height="1200" sizes="(min-width: 1200px) calc(100vw - 40px), (min-width: 810px) and (max-width: 1199.98px) calc(100vw - 40px), (max-width: 809.98px) calc(100vw - 40px)" srcSet="/assets/img/37ea9d8018d9b851.webp 512w, /assets/img/3fbe122260b14fa0.webp 1024w, /assets/img/610efc1f616828e4.webp 1920w" src="/assets/img/610efc1f616828e4.webp" alt="beautiful bedroom" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" />
                   </div>
                 </div>
                 <Content />
@@ -474,6 +474,15 @@ export default function ProjectsPage() {
         {"\n"}
         <svg viewBox="0 0 90 36.04" overflow="visible" id="svg1399693564_539">
           <path d="M 45.075 18.132 C 38.744 24.098 35.58 27.08 32.008 29.326 C 27.484 32.172 22.471 34.159 17.221 35.188 C 15.067 35.61 12.858 35.813 10.009 35.91 L 0 36 C 4.19 36 6.364 36.09 9 36 L 90 36 L 90 0 C 81.283 0 77.075 0.264 72.93 1.076 C 67.68 2.105 62.667 4.093 58.144 6.939 C 54.572 9.186 51.407 12.168 45.075 18.133 Z" fill="var(--token-e4ad1173-13a8-4797-8416-6e773e2b9e82, rgb(245, 245, 244))" />
+        </svg>
+        {"\n"}
+        <svg id="4062400249" display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <g d="M 4 15.973 C 4.129 17.282 4.42 18.163 5.077 18.82 C 6.256 19.999 8.154 19.999 11.949 19.999 C 15.744 19.999 17.642 19.999 18.821 18.819 C 20 17.642 20 15.744 20 11.949 C 20 8.154 20 6.256 18.82 5.077 C 18.164 4.42 17.283 4.129 15.974 4 M 0 8 C 0 4.229 0 2.343 1.172 1.172 C 2.343 0 4.229 0 8 0 C 11.771 0 13.657 0 14.828 1.172 C 16 2.343 16 4.229 16 8 C 16 11.771 16 13.657 14.828 14.828 C 13.657 16 11.771 16 8 16 C 4.229 16 2.343 16 1.172 14.828 C 0 13.657 0 11.771 0 8 Z M 0 9.118 C 0.621 9.04 1.246 9.001 1.872 9.002 C 4.524 8.953 7.111 9.676 9.172 11.042 C 11.081 12.31 12.424 14.053 13 16 M 11.375 5.25 L 11.25 5.25 M 11.5 5.25 C 11.5 5.388 11.388 5.5 11.25 5.5 C 11.112 5.5 11 5.388 11 5.25 C 11 5.112 11.112 5 11.25 5 C 11.388 5 11.5 5.112 11.5 5.25 Z" fill="transparent" height="19.999000000000002px" id="yArvuquH7" transform="translate(2 2)" width="20px">
+            <path d="M 0 11.973 C 0.129 13.282 0.42 14.163 1.077 14.82 C 2.256 15.999 4.154 15.999 7.949 15.999 C 11.744 15.999 13.642 15.999 14.821 14.819 C 16 13.642 16 11.744 16 7.949 C 16 4.154 16 2.256 14.82 1.077 C 14.164 0.42 13.283 0.129 11.974 0" fill="transparent" height="15.999000000000002px" id="sD3a0uZxB" strokeDasharray="" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="10" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" transform="translate(4 4)" width="16px" />
+            <path d="M 0 8 C 0 4.229 0 2.343 1.172 1.172 C 2.343 0 4.229 0 8 0 C 11.771 0 13.657 0 14.828 1.172 C 16 2.343 16 4.229 16 8 C 16 11.771 16 13.657 14.828 14.828 C 13.657 16 11.771 16 8 16 C 4.229 16 2.343 16 1.172 14.828 C 0 13.657 0 11.771 0 8 Z" fill="transparent" height="16px" id="kU4Z2eZ1J" strokeDasharray="" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="10" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" width="16px" />
+            <path d="M 0 0.118 C 0.621 0.04 1.246 0.001 1.872 0.002 C 4.524 -0.047 7.111 0.676 9.172 2.042 C 11.081 3.31 12.424 5.053 13 7" fill="transparent" height="7.0003367174225275px" id="SMOwKPqyg" strokeDasharray="" strokeLinecap="butt" strokeLinejoin="round" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" transform="translate(0 9)" width="13px" />
+            <path d="M 0.375 0.25 L 0.25 0.25 M 0.5 0.25 C 0.5 0.388 0.388 0.5 0.25 0.5 C 0.112 0.5 0 0.388 0 0.25 C 0 0.112 0.112 0 0.25 0 C 0.388 0 0.5 0.112 0.5 0.25 Z" fill="transparent" height="1px" id="AGF1p1wUh" strokeDasharray="" strokeLinecap="round" strokeLinejoin="miter" strokeMiterlimit="10" strokeWidth="var(--2dcig2, 1.2)" stroke="var(--c0riqa, var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)))" transform="translate(11 5)" width="1px" />
+          </g>
         </svg>
         {"\n"}
         <svg id="3986561268" display="block" role="presentation" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
