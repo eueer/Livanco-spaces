@@ -8,7 +8,7 @@ export default function Links() {
   return (
     <div className="framer-1l42m77" data-framer-name="Links">
       <Suspense fallback={null}>
-        <div className="framer-nax7zf-container">
+        <div className="framer-ak04q4-container">
           <Suspense fallback={null}>
             <a className="framer-sHRVC framer-fbOCo framer-k9vhqi framer-v-k9vhqi framer-povf2s" data-framer-name="Variant 1" data-highlight="true" href="./projects" tabIndex={0} style={{ "--border-bottom-width": "0px", "--border-color": "rgba(0, 0, 0, 0)", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", "--corner-shape-fallback": "0.752", backgroundColor: "rgba(0, 0, 0, 0)", cornerShape: "superellipse(1.5)", borderBottomLeftRadius: "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", borderBottomRightRadius: "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", borderTopLeftRadius: "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))", borderTopRightRadius: "calc(8px*var(--one-if-corner-shape-supported,var(--corner-shape-fallback,1)))" }}>
               <div className="framer-2j4mfb" data-framer-component-type="RichTextContainer" style={{ "--extracted-r6o4lv": "var(--token-04aa8e06-f42c-4848-ac4a-8e8a3b8eca16, rgb(28, 25, 23))", "--framer-paragraph-spacing": "0px", transform: "none" }}>

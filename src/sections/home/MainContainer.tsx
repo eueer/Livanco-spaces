@@ -769,6 +769,99 @@ export default function MainContainer() {
                 </div>
               </div>
             </div>
+            <div className="framer-1xub3p6">
+              <div className="framer-11ohhgl" data-framer-component-type="RichTextContainer" style={{ transform: "none" }}>
+                <p className="framer-text framer-styles-preset-1d5k22k" data-styles-preset="sLgHYmHsM" dir="auto">
+                  {"Our clients"}
+                </p>
+              </div>
+              <div className="framer-o96jao" style={{ overflowX: "clip", display: "flex", position: "relative" }}>
+                <ul style={{ display: "flex", position: "relative", listStyleType: "none", padding: "0", margin: "0", justifyContent: "flex-start", flexDirection: "row", gap: "10px", opacity: "0", alignItems: "center", width: "100%", height: "100%", maxHeight: "100%", maxWidth: "100%", transform: "translateX(-10px)" }}>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={1} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-1ymztt9" data-framer-name="Logos">
+                      <div className="framer-1dzeaj0" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="3000" height="2000" sizes="(min-width: 1200px) 192px, (min-width: 810px) and (max-width: 1199.98px) 192px, (max-width: 809.98px) 192px" srcSet="/assets/img/d55535616e9846c8.webp 512w, /assets/img/d2b6768ac1f4fb10.webp 1024w, /assets/img/e53419a33fbee45b.webp 2048w, /assets/img/c21c2efe81094968.webp 3000w" src="/assets/img/c21c2efe81094968.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={2} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-7vt9wr" data-framer-name="Logos">
+                      <div className="framer-hkozxo" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="857" height="519" sizes="(min-width: 1200px) 192px, (min-width: 810px) and (max-width: 1199.98px) 192px, (max-width: 809.98px) 192px" srcSet="/assets/img/0a5d95efbb2480db.webp 512w, /assets/img/7b6ef8dd38477a3a.webp 857w" src="/assets/img/7b6ef8dd38477a3a.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={3} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-17qu6rz" data-framer-name="Logos">
+                      <div className="framer-99q0ju" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="1035" height="295" sizes="(min-width: 1200px) 192px, (min-width: 810px) and (max-width: 1199.98px) 192px, (max-width: 809.98px) 192px" srcSet="/assets/img/db28d484a29136bc.webp 512w, /assets/img/d5c5e18a8c3b7ab8.webp 1024w, /assets/img/d38c12ad51b5a680.webp 1035w" src="/assets/img/d38c12ad51b5a680.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={4} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-1j58nw7" data-framer-name="Logos">
+                      <div className="framer-kjxwa8" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="501" height="167" src="/assets/img/3be1f5957deaa1b1.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={5} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-17ijmer" data-framer-name="Logos">
+                      <div className="framer-12hyp8z" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="289" height="341" src="/assets/img/2b1b4e79dc59a8b8.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={6} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-10qmjmd" data-framer-name="Logos">
+                      <div className="framer-1lhtog0" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="447" height="447" src="/assets/img/b4512c103a65486d.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={7} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-8irke7" data-framer-name="Logos">
+                      <div className="framer-qbrvby" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="1200" height="800" sizes="(min-width: 1200px) 192px, (min-width: 810px) and (max-width: 1199.98px) 192px, (max-width: 809.98px) 192px" srcSet="/assets/img/ccb7865f689d86dc.webp 512w, /assets/img/ff448330cfa6cfa9.webp 1024w, /assets/img/0302fd2cdaf462b7.webp 1200w" src="/assets/img/0302fd2cdaf462b7.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={8} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-1we0boa" data-framer-name="Logos">
+                      <div className="framer-4atlgi" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="447" height="447" src="/assets/img/04e7634080501fde.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="ticker-item" aria-hidden="false" aria-posinset={9} aria-setsize={9} style={{ flexGrow: "0", flexShrink: "0", position: "relative", height: "fit-content", width: "fit-content", transform: "none" }}>
+                    <div className="framer-b4dx3" data-framer-name="Logos">
+                      <div className="framer-1isrgdb" data-framer-name="Image">
+                        <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                          <img decoding="async" loading="lazy" width="474" height="300" src="/assets/img/3745c1697fb636d3.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              {" "}
+            </div>
           </div>
         </Suspense>
       </section>

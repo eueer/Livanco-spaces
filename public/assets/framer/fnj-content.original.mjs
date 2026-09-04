@@ -23,6 +23,7 @@ export const original = {
   spaces: " Spaces",
   built_on_a_foundation_of_refined_detail: "Built on a Foundation of Refined Detail",
   founded_on_the_principle_that_exceptiona: "Founded on the principle that exceptional design is the ultimate form of storytelling, Aflame has spent decades refining the art of the interior. Our approach is collaborative and disciplined.",
+  our_clients: "Our clients",
   core_services: "Core Services",
   construction_design_build_commercial_int: "Construction, Design & Build, Commercial Interiors, Facade Engineering, MEP, Aluminium & Glass, BMS, Networking and Server Infrastructure — one coordinated team from foundation to fit-out.",
   why_livanco_spaces: "Why Livanco Spaces",

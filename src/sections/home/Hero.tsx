@@ -8,7 +8,7 @@ export default function Hero() {
   return (
     <section as="section" className="framer-1ek5qz9" data-framer-name="Hero" id="hero" style={{ willChange: "transform", opacity: "1", transform: "none" }}>
       <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-        <img width="1200" height="1600" sizes="(min-width: 1200px) 100vw, (max-width: 809.98px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw" srcSet="/assets/img/a7adcad3291018ce.webp 768w, /assets/img/c871bef9676f046a.webp 1200w" src="/assets/img/c871bef9676f046a.webp" alt="photo of dining table and chairs inside room" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" />
+        <img width="2872" height="3832" sizes="(min-width: 1200px) 100vw, (max-width: 809.98px) 100vw, (min-width: 810px) and (max-width: 1199.98px) 100vw" srcSet="/assets/img/9d2e3d15178b7f43.webp 767w, /assets/img/f3b6917e3825700c.webp 1534w, /assets/img/33a5148058b9a71c.webp 2872w" src="/assets/img/33a5148058b9a71c.webp" alt="photo of dining table and chairs inside room" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} loading="eager" />
       </div>
       <div className="framer-3bpsiq" />
       <div className="framer-smj2fz" style={{ willChange: "transform", opacity: "1", transform: "none" }}>

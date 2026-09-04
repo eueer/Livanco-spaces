@@ -22,14 +22,14 @@ export default function ProjectsHeritageTerraceModularKitchenPage() {
       {"\n    \n    "}
       <span data-fnj-slot={"1"} />
       {"\n\t\n\t"}
-      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"ymqDvSvFC\",\"localeId\":\"default\",\"pathVariables\":{\"DmPsJ8YGd\":\"heritage-terrace-modular-kitchen\"},\"breakpoints\":[{\"hash\":\"t7rgas\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1cq4aau\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"1ciev4v\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}],\"collectionItemId\":\"tW0vGaoPm\"}"} data-framer-ssr-released-at="2026-08-29T17:40:31.976Z" data-framer-page-optimized-at="2026-09-02T02:56:24.227Z" data-framer-generated-page="">
+      <div id="main" data-framer-hydrate-v2={"{\"routeId\":\"ymqDvSvFC\",\"localeId\":\"default\",\"pathVariables\":{\"DmPsJ8YGd\":\"heritage-terrace-modular-kitchen\"},\"breakpoints\":[{\"hash\":\"t7rgas\",\"mediaQuery\":\"(min-width: 1200px)\"},{\"hash\":\"1cq4aau\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"1ciev4v\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ybq0yx\",\"mediaQuery\":\"(max-width: 809.98px)\"},{\"hash\":\"1ke6cvj\",\"mediaQuery\":\"(min-width: 810px) and (max-width: 1199.98px)\"},{\"hash\":\"13p58tu\",\"mediaQuery\":\"(min-width: 1200px)\"}],\"collectionItemId\":\"tW0vGaoPm\"}"} data-framer-ssr-released-at="2026-09-03T06:57:09.416Z" data-framer-page-optimized-at="2026-09-04T03:11:42.720Z" data-framer-generated-page="">
         <Suspense fallback={null}>
           <Suspense fallback={null}>
             <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: ":root body { background: var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249)); }" }} />
             <div className="framer-ubgzX framer-13p58tu" data-layout-template="true" style={{ minHeight: "100vh", width: "auto" }}>
               <div className="framer-1qndcsm-container" data-framer-appear-id="1qndcsm" style={{ opacity: "0.001", transform: "translateY(-70px)" }}>
                 <div className="ssr-variant hidden-1ybq0yx">
-                  <nav className="framer-1b7mw framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
+                  <nav className="framer-wFIrP framer-11igvg1 framer-v-11igvg1" data-framer-name="Desktop" style={{ width: "100%" }}>
                     <div className="framer-jpn1z8" data-framer-name="Left elements">
                       <div data-framer-component-type="SVG" data-framer-name="Border" parentsize="0" _constraints="[object Object]" rotation="0" shadows="" className="framer-iiguf3" aria-hidden="true" style={{ imageRendering: "pixelated", flexShrink: "0" }}>
                         <div className="svgContainer" style={{ width: "100%", height: "100%", aspectRatio: "inherit" }}>
@@ -90,7 +90,7 @@ export default function ProjectsHeritageTerraceModularKitchenPage() {
                   </nav>
                 </div>
                 <div className="ssr-variant hidden-1ke6cvj hidden-13p58tu">
-                  <nav className="framer-1b7mw framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
+                  <nav className="framer-wFIrP framer-11igvg1 framer-v-gys52j" data-framer-name="Phone" style={{ width: "100%" }}>
                     <div className="framer-16qi1e4" data-border="true" style={{ "--border-bottom-width": "1px", "--border-color": "var(--token-8c5ac018-8806-4487-a55b-975a2f765f5c, rgb(231, 229, 228))", "--border-left-width": "0px", "--border-right-width": "0px", "--border-style": "solid", "--border-top-width": "0px", backgroundColor: "var(--token-c97c8eb3-e993-480b-abf3-efbe2ec7c67d, rgb(250, 250, 249))" }}>
                       <Top />
                     </div>
@@ -98,7 +98,7 @@ export default function ProjectsHeritageTerraceModularKitchenPage() {
                 </div>
               </div>
               <style data-framer-html-style="" dangerouslySetInnerHTML={{ __html: "html body { background: var(--token-e4ad1173-13a8-4797-8416-6e773e2b9e82, rgb(245, 245, 244)); }" }} />
-              <div data-framer-root="" className="framer-VD1Jb framer-7FAwD framer-3EOm7 framer-RgymR framer-NkwbT framer-7F3wj framer-6D53q framer-P9G4g framer-t7rgas" style={{ minHeight: "100vh", width: "auto", display: "contents" }}>
+              <div data-framer-root="" className="framer-MXvFZ framer-7FAwD framer-3EOm7 framer-RgymR framer-NkwbT framer-7F3wj framer-6D53q framer-P9G4g framer-t7rgas" style={{ minHeight: "100vh", width: "auto", display: "contents" }}>
                 <MainContainer />
                 <div className="framer-p005rf" data-framer-name="nav trigger" id="trigger-nav" />
               </div>

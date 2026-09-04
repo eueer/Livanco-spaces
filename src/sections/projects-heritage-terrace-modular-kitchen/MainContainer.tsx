@@ -541,32 +541,46 @@ export default function MainContainer() {
             </div>
           </div>
         </div>
-        <div className="framer-1by1k6x" id="gallery">
-          <div className="ssr-variant">
-            <div className="framer-1nec7uf">
-              <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img loading="eager" width="1280" height="960" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/df899c230e6b186a.webp 512w, /assets/img/501974f5d15c894e.webp 1024w, /assets/img/780f6929dbbbb7dd.webp 1280w" src="/assets/img/780f6929dbbbb7dd.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+        <div className="ssr-variant hidden-1ciev4v">
+          <div className="framer-1by1k6x" id="gallery" style={{ gridTemplateColumns: "repeat(2, 1fr)" }}>
+            <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
+              <div className="framer-1nec7uf" style={{ height: "auto", aspectRatio: "1.400437636761488" }}>
+                <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                  <img loading="eager" width="1280" height="914" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/2f220df220e00811.webp 512w, /assets/img/3777ba9b628c3a24.webp 1024w, /assets/img/920ac41035676067.webp 1280w" src="/assets/img/920ac41035676067.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                </div>
+              </div>
+              <div className="framer-1nec7uf" style={{ height: "auto", aspectRatio: "0.8650306748466258" }}>
+                <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                  <img decoding="async" loading="lazy" width="1128" height="1304" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/d00fb1e6d549aa88.webp 885w, /assets/img/354af40f8b01d6eb.webp 1128w" src="/assets/img/354af40f8b01d6eb.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                </div>
+              </div>
+            </div>
+            <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
+              <div className="framer-1nec7uf" style={{ height: "auto", aspectRatio: "1" }}>
+                <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                  <img decoding="async" loading="lazy" width="668" height="668" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/2bf5fe06f93013c2.webp 512w, /assets/img/e492909c921852b4.webp 668w" src="/assets/img/e492909c921852b4.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                </div>
               </div>
             </div>
           </div>
-          <div className="ssr-variant">
-            <div className="framer-1nec7uf">
-              <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="1280" height="854" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/7da698115a3055e5.webp 512w, /assets/img/0795dd7a94b191ff.webp 1024w, /assets/img/fff2f5a604e25e77.webp 1280w" src="/assets/img/fff2f5a604e25e77.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+        </div>
+        <div className="ssr-variant hidden-1cq4aau hidden-t7rgas">
+          <div className="framer-1by1k6x" id="gallery" style={{ gridTemplateColumns: "repeat(1, 1fr)" }}>
+            <div style={{ display: "flex", flexDirection: "column", rowGap: "24px", width: "100%" }}>
+              <div className="framer-1nec7uf" style={{ height: "auto", aspectRatio: "1.400437636761488" }}>
+                <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                  <img decoding="async" loading="lazy" width="1280" height="914" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/2f220df220e00811.webp 512w, /assets/img/3777ba9b628c3a24.webp 1024w, /assets/img/920ac41035676067.webp 1280w" src="/assets/img/920ac41035676067.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                </div>
               </div>
-            </div>
-          </div>
-          <div className="ssr-variant">
-            <div className="framer-1nec7uf">
-              <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="1280" height="1280" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/7680f30d94acdb4a.webp 512w, /assets/img/1d74f594cf4dace4.webp 1024w, /assets/img/ebcad25b40cabdf4.webp 1280w" src="/assets/img/ebcad25b40cabdf4.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+              <div className="framer-1nec7uf" style={{ height: "auto", aspectRatio: "1" }}>
+                <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                  <img decoding="async" loading="lazy" width="668" height="668" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/2bf5fe06f93013c2.webp 512w, /assets/img/e492909c921852b4.webp 668w" src="/assets/img/e492909c921852b4.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                </div>
               </div>
-            </div>
-          </div>
-          <div className="ssr-variant">
-            <div className="framer-1nec7uf">
-              <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
-                <img decoding="async" loading="lazy" width="1280" height="1280" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/083dd8514b4e39af.webp 512w, /assets/img/65f05570545c4a09.webp 1024w, /assets/img/c3fa14e8ddea854d.webp 1280w" src="/assets/img/c3fa14e8ddea854d.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+              <div className="framer-1nec7uf" style={{ height: "auto", aspectRatio: "0.8650306748466258" }}>
+                <div style={{ position: "absolute", borderRadius: "inherit", cornerShape: "inherit", top: "0", right: "0", bottom: "0", left: "0" }} data-framer-background-image-wrapper="true">
+                  <img decoding="async" loading="lazy" width="1128" height="1304" sizes="(min-width: 1200px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (min-width: 810px) and (max-width: 1199.98px) max((min(100vw - 40px, 1000px) - 120px) / 2, 50px), (max-width: 809.98px) max(min(100vw - 40px, 1000px) - 48px, 50px)" srcSet="/assets/img/d00fb1e6d549aa88.webp 885w, /assets/img/354af40f8b01d6eb.webp 1128w" src="/assets/img/354af40f8b01d6eb.webp" alt="" style={{ display: "block", width: "100%", height: "100%", borderRadius: "inherit", cornerShape: "inherit", objectPosition: "center", objectFit: "cover" }} />
+                </div>
               </div>
             </div>
           </div>
